@@ -75,7 +75,7 @@ sections:
           styles:
             self:
               borderRadius: x-large
-      - title: 2000+
+      - title: 1000+
         subtitle: Zadovoljnih klijenata
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
