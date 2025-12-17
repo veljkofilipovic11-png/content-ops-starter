@@ -100,7 +100,7 @@ sections:
             textAlign: left
             justifyContent: center
         type: FeaturedItem
-      - title: '15'
+      - title: 15+ godina
         subtitle: Iskustva u industriji
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
