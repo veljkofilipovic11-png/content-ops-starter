@@ -76,7 +76,7 @@ sections:
             self:
               borderRadius: x-large
       - title: 2000+
-        subtitle: The Job Stuff
+        subtitle: Zadovoljnih klijenata
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
