@@ -206,7 +206,7 @@ sections:
       vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
     media:
       title: REKLAMA
-      url: 'https://screenapp.io/app/v/GNDwnrJHXR'
+      url: ''
       controls: false
       aspectRatio: '16:9'
       styles:
