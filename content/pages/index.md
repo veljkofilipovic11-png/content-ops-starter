@@ -51,7 +51,9 @@ sections:
         subtitle: Realizovanih projekata
         text: >+
           Od modernih dnevnih soba do elegantnih kancelarijskih prostora – svaki
-          projekat je jedinstven.
+          projekat je jedinstven. Naši projekti kombinuju estetiku, udobnost i
+          funkcionalnost, a svaki detalj je pažljivo izrađen kako bi prostor
+          postao prijatan, elegantan i praktičan za svakodnevni život.
 
         actions: []
         elementId: null
