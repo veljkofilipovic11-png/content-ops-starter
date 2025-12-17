@@ -102,10 +102,12 @@ sections:
         type: FeaturedItem
       - title: 15+ Godina
         subtitle: Iskustva u industriji
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+          Naše iskustvo nam omogućava da svaki komad nameštaja bude precizno
+          izrađen, dugovečan i u skladu sa potrebama i željama naših klijenata.
+          Sa nama, svaki enterijer postaje unikatno umetničko delo – spoj stila,
+          udobnosti i funkcionalnosti.
+
         image:
           url: /images/icon3.svg
           altText: Featured icon three
