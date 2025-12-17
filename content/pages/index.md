@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: "Vaša adresa\_ \_ \_ \_ \_ za moderan, elegantan i prilagođen nameštaj\_ \_ \_ \_ \_ \_ \_ koji oplemenjuje\_ \_ \_ svaki prostor."
+      text: "Vaša adresa\_ \_ \_ \_ \_ za moderan, elegantan\_ nameštaj\_ \_ \_ \_ \_ \_ \_ koji oplemenjuje\_ \_ \_ svaki prostor."
       color: text-dark
       type: TitleBlock
     subtitle: ''
