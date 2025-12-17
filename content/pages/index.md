@@ -745,7 +745,7 @@ sections:
     type: GenericSection
 seo:
   metaTitle: Furnicom Interiors 018
-  metaDescription: This demo site is built with Netlify Create.
+  metaDescription: ''
   socialImage: /images/main-hero.jpg
   type: Seo
 type: PageLayout
