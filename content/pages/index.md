@@ -284,7 +284,7 @@ sections:
         textAlign: left
   - title:
       text: Business Consulting
-      color: text-dark
+      color: text-light
       type: TitleBlock
     subtitle: Be in good company
     text: >
