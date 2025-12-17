@@ -155,7 +155,7 @@ sections:
       - url: /images/empathy-logo.svg
         altText: Empathy logo
         type: ImageBlock
-      - url: /images/wellster-logo.svg
+      - url: /images/adsdas.png
         altText: Wellster logo
         type: ImageBlock
       - url: /images/aa.png
