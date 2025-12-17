@@ -8,10 +8,13 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: ''
-    text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+    text: >+
+      Furnicom Interiors je firma posvećena proizvodnji i prodaji
+      visokokvalitetnog nameštaja. Naša misija je da svaki dom učinimo toplim,
+      funkcionalnim i estetski privlačnim. Bilo da tražite moderne komade,
+      klasične detalje ili potpuno prilagođena rešenja, mi kreiramo nameštaj po
+      vašim željama i potrebama.
+
     actions:
       - label: Get started
         altText: ''
