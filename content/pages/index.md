@@ -48,7 +48,7 @@ sections:
     items:
       - type: FeaturedItem
         title: 500+
-        subtitle: "Realizovanih projekata\_širom Srbije i Evrope."
+        subtitle: Realizovanih projekata
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
