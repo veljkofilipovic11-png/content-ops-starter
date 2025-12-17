@@ -1,5 +1,5 @@
 ---
-title: Home
+title: FURNICOM INTERIORS
 slug: /
 sections:
   - type: GenericSection
