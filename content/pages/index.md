@@ -39,7 +39,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       text: STATISTIKA
-      color: text-neutral
+      color: text-light
       styles:
         self:
           textAlign: center
