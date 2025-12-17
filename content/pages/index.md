@@ -150,7 +150,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - subtitle: Award winning enterprises trust us
+  - subtitle: Ponosni smo što sarađujemo sa vodećim brendovima i kompanijama
     images:
       - url: /images/empathy-logo.svg
         altText: Empathy logo
