@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       text: >-
-        Vaša adresa za moderan, elegantan i prilagođen nameštaj koji oplemenjuje
+        Vaša adresaza moderan, elegantan i prilagođen nameštaj koji oplemenjuje
         svaki prostor.
       color: text-dark
       type: TitleBlock
