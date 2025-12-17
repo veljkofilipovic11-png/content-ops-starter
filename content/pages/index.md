@@ -152,7 +152,7 @@ sections:
         textAlign: center
   - subtitle: Ponosni smo što sarađujemo sa vodećim brendovima i kompanijama
     images:
-      - url: /images/adssadas.png
+      - url: /images/45644.png
         altText: Empathy logo
         type: ImageBlock
       - url: /images/adsdas.png
