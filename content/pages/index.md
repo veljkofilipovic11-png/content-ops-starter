@@ -15,16 +15,7 @@ sections:
       klasične detalje ili potpuno prilagođena rešenja, mi kreiramo nameštaj po
       vašim željama i potrebama.
 
-    actions:
-      - label: See Tutorials
-        altText: ''
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-        type: Link
+    actions: []
     media:
       url: /images/modern-contemporary-home-1080x673-1.jpg
       altText: Unblock your team boost your time to production preview
