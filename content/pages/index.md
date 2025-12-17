@@ -101,7 +101,7 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: '15'
-        subtitle: Faster
+        subtitle: Iskustva u industriji
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
