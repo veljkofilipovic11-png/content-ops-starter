@@ -82,11 +82,9 @@ sections:
         text: >
           Ponosni smo na poverenje koje nam ukazuju naši klijenti. Više od 1000
           zadovoljnih kupaca širom Srbije i Evrope koristilo je naše proizvode i
-          usluge
-
-
-          Naši klijenti ističu kvalitet, preciznost i profesionalizam u svakom
-          koraku – od dizajna, preko proizvodnje, do montaže i završnih detalja.
+          usluge. Naši klijenti ističu kvalitet, preciznost i profesionalizam u
+          svakom koraku – od dizajna, preko proizvodnje, do montaže i završnih
+          detalja.
         image:
           url: /images/icon2.svg
           altText: Featured icon two
