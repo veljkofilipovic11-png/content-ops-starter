@@ -164,7 +164,7 @@ sections:
       - url: /images/ttt.png
         altText: Telus logo
         type: ImageBlock
-      - url: /images/contenful-logo.svg
+      - url: /images/asasa.png
         altText: Contentful logo
         type: ImageBlock
       - url: /images/sanity-logo.svg
