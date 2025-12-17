@@ -48,7 +48,7 @@ sections:
     items:
       - type: FeaturedItem
         title: '>1000'
-        subtitle: Numbers Done
+        subtitle: Realizovanih projekata
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
