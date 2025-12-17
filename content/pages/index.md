@@ -161,7 +161,7 @@ sections:
       - url: /images/aa.png
         altText: Vise logo
         type: ImageBlock
-      - url: /images/ttt.png
+      - url: /images/agt.png
         altText: Telus logo
         type: ImageBlock
       - url: /images/asasa.png
