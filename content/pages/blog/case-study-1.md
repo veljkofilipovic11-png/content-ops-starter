@@ -8,7 +8,7 @@ excerpt: >-
   Etiam at cursus enim. Suspendisse sed augue tortor. Nunc eu magna vitae lorem
   pellentesque fermentum. Sed in facilisis dui.
 featuredImage:
-  url: /images/modern-contemporary-home-1080x673-1.jpg
+  url: /images/01-XL.jpg
   altText: Case study 1
   styles:
     self:
