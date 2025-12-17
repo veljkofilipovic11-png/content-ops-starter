@@ -158,7 +158,7 @@ sections:
       - url: /images/wellster-logo.svg
         altText: Wellster logo
         type: ImageBlock
-      - url: /images/Opsti-uslovi-prodaje.jpg
+      - url: /images/aa.png
         altText: Vise logo
         type: ImageBlock
       - url: /images/aa.png
