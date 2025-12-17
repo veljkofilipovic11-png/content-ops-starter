@@ -47,7 +47,7 @@ sections:
     subtitle: Subtitle goes here
     items:
       - type: FeaturedItem
-        title: '>1000'
+        title: 1000+
         subtitle: Realizovanih projekata
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
