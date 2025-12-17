@@ -49,10 +49,10 @@ sections:
       - type: FeaturedItem
         title: 500+
         subtitle: Realizovanih projekata
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+          Od modernih dnevnih soba do elegantnih kancelarijskih prostora – svaki
+          projekat je jedinstven.
+
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
