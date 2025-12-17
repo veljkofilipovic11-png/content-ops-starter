@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       text: "Vaša adresa\_ \_ \_ \_ \_ za nameštaj\_ \_ \_ \_ \_ \_ koji oplemenjuje\_ \_ \_ svaki prostor."
-      color: text-primary
+      color: text-neutral
       type: TitleBlock
     subtitle: ''
     text: >+
