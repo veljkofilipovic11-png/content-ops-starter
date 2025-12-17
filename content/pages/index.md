@@ -256,7 +256,7 @@ sections:
     actions: []
     media:
       title: Title of the video
-      url: 'https://www.youtube.com/watch?v=M5q2raEjKsI'
+      url: '"C:\Users\user\Desktop\furnicomad.mp4"'
       autoplay: true
       loop: true
       muted: true
