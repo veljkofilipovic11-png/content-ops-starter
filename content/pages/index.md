@@ -161,7 +161,7 @@ sections:
       - url: /images/Opsti-uslovi-prodaje.jpg
         altText: Vise logo
         type: ImageBlock
-      - url: /images/telus-logo.svg
+      - url: /images/Kronospan-Logo.png
         altText: Telus logo
         type: ImageBlock
       - url: /images/contenful-logo.svg
