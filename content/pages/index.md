@@ -22,7 +22,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: FURNICOM INTERIORS 018
+      label: ''
       color: text-primary
       type: Badge
     elementId: ''
