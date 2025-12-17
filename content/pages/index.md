@@ -23,7 +23,7 @@ sections:
       type: ImageBlock
     badge:
       label: FURNICOM INTERIORS 018
-      color: text-dark
+      color: text-primary
       type: Badge
     elementId: ''
     colors: bg-light-fg-dark
